@@ -8,7 +8,9 @@
 
 Linux 平台
 
+
 # 创建目录
+```
 $ mkdir mm_wiki
 $ cd mm_wiki
 # 以 linux amd64 为例，下载最新版本压缩包
@@ -25,3 +27,4 @@ $ cd ..
 $ ./mm-wiki --conf conf/mm-wiki.conf
 # 浏览器访问你监听的 ip 和端口
 # 开始 MM-Wiki 的使用之旅吧！
+```
